@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\santa\\OneDrive\\Documents\\GodotProjects\\CombatArena\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8058F792-A8B2-453F-95CF-0ED9E0BF5879}|CombatArena.csproj|c:\\users\\santa\\onedrive\\documents\\godotprojects\\combatarena\\scripts\\domain\\fighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8058F792-A8B2-453F-95CF-0ED9E0BF5879}|CombatArena.csproj|solutionrelative:scripts\\domain\\fighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8058F792-A8B2-453F-95CF-0ED9E0BF5879}|CombatArena.csproj|c:\\users\\santa\\onedrive\\documents\\godotprojects\\combatarena\\scripts\\domain\\combataction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8058F792-A8B2-453F-95CF-0ED9E0BF5879}|CombatArena.csproj|solutionrelative:scripts\\domain\\combataction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8058F792-A8B2-453F-95CF-0ED9E0BF5879}|CombatArena.csproj|c:\\users\\santa\\onedrive\\documents\\godotprojects\\combatarena\\scripts\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8058F792-A8B2-453F-95CF-0ED9E0BF5879}|CombatArena.csproj|solutionrelative:scripts\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CombatAction.cs",
+              "DocumentMoniker": "C:\\Users\\santa\\OneDrive\\Documents\\GodotProjects\\CombatArena\\Scripts\\Domain\\CombatAction.cs",
+              "RelativeDocumentMoniker": "Scripts\\Domain\\CombatAction.cs",
+              "ToolTip": "C:\\Users\\santa\\OneDrive\\Documents\\GodotProjects\\CombatArena\\Scripts\\Domain\\CombatAction.cs",
+              "RelativeToolTip": "Scripts\\Domain\\CombatAction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T19:38:16.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fighter.cs",
+              "DocumentMoniker": "C:\\Users\\santa\\OneDrive\\Documents\\GodotProjects\\CombatArena\\Scripts\\Domain\\Fighter.cs",
+              "RelativeDocumentMoniker": "Scripts\\Domain\\Fighter.cs",
+              "ToolTip": "C:\\Users\\santa\\OneDrive\\Documents\\GodotProjects\\CombatArena\\Scripts\\Domain\\Fighter.cs",
+              "RelativeToolTip": "Scripts\\Domain\\Fighter.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T19:38:03.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\santa\\OneDrive\\Documents\\GodotProjects\\CombatArena\\Scripts\\Main.cs",
+              "RelativeDocumentMoniker": "Scripts\\Main.cs",
+              "ToolTip": "C:\\Users\\santa\\OneDrive\\Documents\\GodotProjects\\CombatArena\\Scripts\\Main.cs",
+              "RelativeToolTip": "Scripts\\Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T19:36:10.132Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
