@@ -1,3 +1,25 @@
-[gd_scene format=3 uid="uid://b7ld8syt1v54b"]
+[gd_scene load_steps=6 format=3 uid="uid://b7ld8syt1v54b"]
+
+[ext_resource type="Script" uid="uid://dquh8n718j2fe" path="res://Scripts/Main.cs" id="1_jjgbg"]
+[ext_resource type="Script" uid="uid://b65mv71pn8aqk" path="res://Scripts/Infra/ConsoleLogSink.cs" id="2_jjvhh"]
+[ext_resource type="PackedScene" uid="uid://hcsk2a16jp5a" path="res://Scenes/coin_label.tscn" id="3_8gbba"]
+[ext_resource type="Script" uid="uid://bbwgfukbp2syi" path="res://Scripts/System/CoinInventory.cs" id="4_jjvhh"]
+[ext_resource type="Script" uid="uid://c7gth4iwom1nk" path="res://Scripts/UI/RichTextLog.cs" id="5_kry3j"]
 
 [node name="Main" type="Node"]
+script = ExtResource("1_jjgbg")
+
+[node name="Logger" type="Node" parent="."]
+script = ExtResource("2_jjvhh")
+
+[node name="CoinLabel" parent="." instance=ExtResource("3_8gbba")]
+
+[node name="CoinInventory" type="Node" parent="."]
+script = ExtResource("4_jjvhh")
+
+[node name="RichTextLabel" type="RichTextLabel" parent="."]
+offset_left = 2.0
+offset_top = 235.0
+offset_right = 256.0
+offset_bottom = 381.0
+script = ExtResource("5_kry3j")
